@@ -1,7 +1,7 @@
-## Olá! Eu sou Marlleyck Nathan
+<h2 align="center"> Olá! Eu sou Marlleyck Nathan</h2>
 
-- 🔭 Desenvolvedor iniciante em Front-End
-- 🌱 Atualmente, estudando HTML-CSS-JavaScript
+<p align="center"> 🔭 Desenvolvedor iniciante em Front-End</p>
+<p align="center">🌱 Atualmente, estudando HTML-CSS-JavaScript</p>
 
 <div align="center">
   <a href="https://github.com/marlleyck">
