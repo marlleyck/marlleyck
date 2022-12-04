@@ -1,7 +1,7 @@
 <h2 align="center"> Olá! Eu sou Marlleyck Nathan</h2>
 
-<p align="center"> 🔭 Desenvolvedor iniciante em Front-End</p>
-<p align="center">🌱 Atualmente, estudando ReactJs + TypeScript</p>
+<p align="center"> 🔭 Desenvolvedor Front-End | Mobile | Backend (talvez)</p>
+<p align="center">🌱 Atualmente, estudando BackEnd (NodeJs)</p>
 
 <div align="center">
   <a href="https://github.com/marlleyck">
@@ -16,6 +16,9 @@
   <img align="center" alt="Marlleyck-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Marlleyck-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Marlleyck-Sass" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
+  <img align="center" alt="Marlleyck-NodeJs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Marlleyck-MySql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Marlleyck-MongoDB" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
 </div>
  
 ##
