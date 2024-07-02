@@ -1,7 +1,6 @@
 <h2 align="center"> Olá! Eu sou Marlleyck Nathan</h2>
 
-<p align="center"> 🔭 Desenvolvedor Front-End | Mobile | Backend (talvez)</p>
-<p align="center">🌱 Atualmente, estudando BackEnd (NodeJs)</p>
+<p align="center"> 🔭 Desenvolvedor Front-End | Mobile </p>
 
 <div align="center">
   <a href="https://github.com/marlleyck">
@@ -23,8 +22,7 @@
  
 ##
   
-<div align="center"> 
-  <a href="https://instagram.com/marlleykc" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<div align="center">
   <a href="https://www.linkedin.com/in/marlleyck" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 
